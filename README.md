@@ -41,3 +41,9 @@ manual.doc
 ------------------------
 
 Is a word file of the user manual (same as manual.pdf)
+
+References
+------------------------
+Jassal RS, Black TA, Cai T, Morgenstern K, Li Z, Gaumont-Guay D, Nesic Z (2007) 'Components of ecosystem respiration and estimates of net primary productivity of an intermediate-aged Douglas-fir stand'. Agricultural and Forest Meteorology, 144: 44-57.
+
+Jassal RS, Black TA, Novak MD, Morgenstern K, Nesic Z, Gaumont-Guay D (2005) 'Relationship between soil CO2 concentrations and forest-floor CO2 effluxes'. Agricultural and Forest Meteorology, 130: 176-192.
