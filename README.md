@@ -12,7 +12,11 @@ The measurement head has a volume of 1.4 x 10-3 m3 (height: 15.6 cm, diameter: 1
 
 In operation, the chamber is placed on a collar for 2 minutes. A foam gasket provides a seal between the collar and the chamber. A pump (flow rate of 600 cm3 min-1) circulates air from the chamber into a portable, battery operated infrared gas analyzer (IRGA) (LI-800, LI-COR Inc., Lincoln, NE, USA) and back into the chamber through a closed circuit. The IRGA measures CO2 and water vapour concentrations at 1-second intervals during the run. The data from the IRGA were digitized using a 21X data logger (Campbell Scientific Inc. (CSI), Logan, UT, USA) and stored on a memory module to  calculate the rate of change in the CO2 mixing ratios (d[CO2]/dt) in the chamber over the period of the measurement (see Section 2.3). Simultaneously, a thermocouple was used to measure soil temperature at the ~5-cm depth just outside the collar.
 
-The software here allows to calculate fluxes in an interactive way from those datasets. The following components are required:
+The software here allows to calculate fluxes in an interactive way from those datasets. 
+
+![Sample-User-Interface](Sample-User-Interface.png)
+
+The following components are required:
 
 Description of the software
 ========================
