@@ -36,9 +36,9 @@ This is the uncompiled source code of the user-interface in Interactive Data Lan
 co2_chamber.sav
 ------------------------
 
-This is a compiled version of the code, to be run without license in Interactive Data Language using the free IDL virtual machine (runtime version), which is available <a  href="http://www.exelisvis.com/Support/HelpArticles/TabId/185/ArtMID/800/ArticleID/12395/The-IDL-Virtual-Machine.aspx"> here </a>
+This is a compiled version of the code, to be run without license in Interactive Data Language using the free IDL virtual machine (runtime version), which is available <a  href="http://www.exelisvis.com/Support/HelpArticles/TabId/185/ArtMID/800/ArticleID/12395/The-IDL-Virtual-Machine.aspx"> here </a>. Install the virtual machine and then load the .sav file to run the software code without the full development envrionment.
 
-manual.pdf
+[manual.pdf](manual.pdf)
 ------------------------
 
 Is a user manual that describes the functionality of the software on page 7 ff.
