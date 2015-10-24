@@ -1,12 +1,12 @@
 UBC-Portable-CO2-Chamber
 ========================
 
-Software to interactively graph data measured by the portable carbon-dioxide chamber system developed in the University of British Columbia (UBC) biometerology group and to  calculate and tabulate carbon-dioxide soil fluxes.
+This is a user interface based on IDL to interactively graph data measured by the portable carbon-dioxide chamber system developed in the University of British Columbia (UBC) biometerology group and to calculate and tabulate carbon-dioxide soil fluxes.
 
 Description of the system
 ========================
 
-The UBC portable chamber system is a non-steady state portable chamber to measure soil fluxes of carbon dioxide (CO2), developed and tested in  research projects at the University of British Columbia (Jassal et al. 2005, 2007). 
+The UBC portable chamber system is a non-steady state portable chamber to measure soil fluxes of carbon dioxide (CO2), developed and tested in research projects at the University of British Columbia (Jassal et al. 2005, 2007). 
 
 The measurement head has a volume of 1.4 x 10-3 m3 (height: 15.6 cm, diameter: 10.7 cm), measuring flux from a surface area of 79 cm2 (the inner diameter of the collar). Both opaque (PVC) and transparent (acrylic) chambers can be used, depending whether soil respiration (opaque), or net ecosystem exchange (NEE, i.e. respiration minus photosynthesis) (transparent) is of interest.
 
@@ -20,6 +20,8 @@ The following components are required:
 
 Description of the software
 ========================
+
+
 
 co2_chamber_ascii_def.sav
 ------------------------
