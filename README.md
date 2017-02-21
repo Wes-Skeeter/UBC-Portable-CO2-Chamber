@@ -48,6 +48,8 @@ Is a word file of the user manual (same as manual.pdf)
 
 References
 ------------------------
+Jassal RS, Black TA, Novak MD, Morgenstern K, Nesic Z, Gaumont-Guay D (2005) 'Relationship between soil CO2 concentrations and forest-floor CO2 effluxes'. Agricultural and Forest Meteorology, 130: 176-192.
+
 Jassal RS, Black TA, Cai T, Morgenstern K, Li Z, Gaumont-Guay D, Nesic Z (2007) 'Components of ecosystem respiration and estimates of net primary productivity of an intermediate-aged Douglas-fir stand'. Agricultural and Forest Meteorology, 144: 44-57.
 
-Jassal RS, Black TA, Novak MD, Morgenstern K, Nesic Z, Gaumont-Guay D (2005) 'Relationship between soil CO2 concentrations and forest-floor CO2 effluxes'. Agricultural and Forest Meteorology, 130: 176-192.
+Christen A., Jassal R., Black T.A., Grant N.J., Hawthorne I., Johnson M.S., Lee S.-C., Merkens M. (2016): ['Summertime greenhouse gas fluxes from an urban bog undergoing restoration through rewetting'](http://dx.doi.org/10.19189/MaP.2015.OMB.207) Mires and Peat, 17, Article 3, 1–24. 
